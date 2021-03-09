@@ -791,7 +791,7 @@ li.search-hot.fed-hide-xs a { font-size:12px;}
 .list-img .mh3,.star-r-m-list li.imglist .mh3 { text-align:center!important; width: 100%;position: absolute;left: 0;bottom: 0px;_bottom: -1px;background: url(../img/mask_txtbg_100.png) 0 bottom repeat-x;color: #fff;overflow: hidden;text-indent: 4px;cursor: pointer;overflow: hidden;_filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#80000000',GradientType=0 );}
 .star-r-m-list li.imglist .mh3  a,.roleimg .mh3  a{ color:#FFF}
 .fed-margin-top{margin-top:1.25rem;}
-.fed-tabs-info .fed-padding { padding: .3125rem }
+.fed-tabs-info .fed-padding { padding: .1125rem }
 
 
 /* download-group */
