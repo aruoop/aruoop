@@ -14,7 +14,7 @@ body{ padding-top: 80px}
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
 .stui-header__logo{margin-top: 0}
-.stui-header__logo .logo{ display:block; width:150px; height:50px; background:url({$maccms.path}static/images/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
+.stui-header__logo .logo{ display:block; width:150px; height:50px; background:url(/static/images/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
 
 /* header-menu */
 .stui-header__menu{position:relative;margin-left:10px}
