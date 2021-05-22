@@ -58,7 +58,7 @@
 .myui-content__detail .score .rating li .fa{ font-size: 24px;}
 .myui-content__detail .score .branch{ display: inline-block; font-family: Georgia,"Times New Roman",Times,serif; font-size: 24px; line-height: 24px;}
 .myui-content__operate{ float: left; margin-top: 0px}
-.myui-content__operate .btn{ margin-left: 3px; margin-bottom: 5px;}
+.myui-content__operate .btn{ margin-left: 10px; margin-bottom: 10px;}
 .myui-content__operate .btn:first-child{ margin-left: 0;}
 .myui-content__operate .share{ margin-top:5px}
 .myui-content__tag a{ display: inline-block; line-height: 20px; padding: 2px 10px; margin-left: 5px; border: 1px solid rgba(0,0,0,.1); font-size: 12px; border-radius: 15px;}
