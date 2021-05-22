@@ -115,7 +115,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 .badge-radius{ border-radius: 50%;}
 
 /* btn */
-.btn{display: inline-block; padding: 6px 10px; font-size: 12px;}
+.btn{display: inline-block; padding: 8px 30px; font-size: 12px;}
 .btn.btn-xs{ padding: 4px 15px;}
 .btn.btn-sm{ padding: 6px 20px;}
 .btn.btn-md{ padding: 8px 25px;}
