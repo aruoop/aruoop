@@ -57,8 +57,8 @@ a:focus,a:hover,a:active{ text-decoration:none;}
 /* img */
 img{border: 0; vertical-align:middle}
 .img-circle{ border-radius: 50%;}
-.img-rounded{ border-radius: 5px;}
-.img-thumbnail{ padding: 5px; border-radius: 5px;}
+.img-rounded{ /*border-radius: 5px;*/}
+.img-thumbnail{ padding: 5px; /*border-radius: 5px;*/}
 .img-responsive{ max-width: 100%;}
 .img-thumb{ width: 220px;}
 .content img{ display: block; max-width: 100%;}
@@ -144,7 +144,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 .nav-page > li:first-child > a{ border-radius: 4px 0 0 4px;}
 .nav-page > li:last-child > a{ border-radius: 0 4px 4px 0;}
 .nav-btn > li{ margin-right: 15px; margin-bottom: 15px;}
-.nav-btn > li a{ padding: 8px 12px; border-radius: 5px;}
+.nav-btn > li a{ padding: 8px 12px; /*border-radius: 5px;*/}
 
 /* pic-tag */
 .pic-tag{ display: block; position: absolute; padding: 2px 0; width: 100%; z-index: 99;}
@@ -214,9 +214,9 @@ textarea.form-control{ height: auto; padding: 10px;}
 .myui-vodlist__text.active li:first-child a{ padding-top: 0;}
 .myui-vodlist__text.striped li{ padding: 10px 0 10px;}
 .myui-vodlist__text.striped li a{ display: inline-block; padding: 0;}
-.myui-vodlist__text.striped .striped-head{ padding: 10px; border-radius: 5px;}
+.myui-vodlist__text.striped .striped-head{ padding: 10px; /*border-radius: 5px;*/}
 .myui-vodlist__text .striped-head{ font-weight: 700;}
-.myui-vodlist__text.to-color li{ padding: 10px; /*border-radius: 5px;*/}
+.myui-vodlist__text.to-color li{ padding: 10px; /*/*border-radius: 5px;*/*/}
 .myui-vodlist__text.to-color li a{ padding: 0;}
 .myui-vodlist__text.downlist{ padding-top: 0;}
 .myui-vodlist__text.downlist li{ padding: 10px 0;}
@@ -449,7 +449,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 	.hidden-text-lg {visibility: hidden !important;}
 }
 
-@media (max-width: 1199px) and (min-width: 1023px){
+@media (max-width: 1599px) and (min-width: 1023px){
 	.visible-md { display: block !important;}
 	.hidden-md { display: none!important;}
 	.visible-inline-md { display: inline-block !important;}
