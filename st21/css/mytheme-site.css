@@ -92,7 +92,7 @@
 .myui-newslist li .desc{ text-indent: 2em; margin: 0; padding: 20px 0; line-height: 25px;}
 .myui-newslist__text li .title{ margin: 0; font-size: 15px;}
 .myui-art__nav li{ padding: 6px 0;}
-.myui-art__nav li.active a{ font-weight: bold; color: #ff9900;}
+.myui-art__nav li.active a{ font-weight: bold; color: #0099CC;}
 
 /* footer */
 .myui-foot{ padding: 20px 0;}
