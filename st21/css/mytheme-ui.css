@@ -463,7 +463,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 	.visible-inline-sm { display: inline-block !important;}
 	.visible-text-sm { visibility: visible !important;}
 	.hidden-text-sm { visibility: hidden !important;}
-}
+} 
 
 @media (max-width: 1023px){	
 	
