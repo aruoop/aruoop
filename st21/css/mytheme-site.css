@@ -127,7 +127,7 @@
 	.myui-header__search .form-control{ height: 32px; padding: 0 10px; border-radius: 16px;}
 	.myui-header__search .submit{ right: 30px; width:32px;height:32px;line-height:30px;}
 	.myui-header__search .search-close{ position: absolute; top: 6px; right: 0;}
-	.myui-header__menu > li .dropdown-box{ margin-left: -150px; padding-top: 0;}
+	.myui-header__menu > li .dropdown-box{ margin-left: -100px; padding-top: 0;}
 	.myui-header__menu > li .dropdown-box .item{ width: 300px;}
 	.myui-header__user > li{ margin-left: 15px; padding: 15px 0 10px;}
 	.myui-header__user > li > a .fa{ font-size: 20px; line-height: 20px;}
