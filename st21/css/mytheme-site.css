@@ -29,7 +29,7 @@
 .myui-header__menu{position:relative;}
 .myui-header__menu > li{ position: relative; float: left; margin-left: 30px;}
 .myui-header__menu > li > a{ font-size: 16px; line-height: 60px;}
-.myui-header__menu > li .dropdown-box{ margin-left: -250px; padding-top: 0;}
+.myui-header__menu > li .dropdown-box{ margin-left: -200px; padding-top: 0;}
 .myui-header__menu > li .dropdown-box .item{ width: 500px;}
 .myui-header__menu > li .dropdown-box .item li{ padding: 6px;}
  
