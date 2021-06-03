@@ -651,14 +651,14 @@ input[type=checkbox] {
 .btn-main-linear,
 .btn-important {
     background: #03A9F4;
-    background: linear-gradient(90deg, #ff9800, #03A9F4) !important
+    background: linear-gradient(90deg, #4CAF50, #03A9F4) !important
 }
 .btn-aux-linear,
 .btn-aux,
 .btn-aux-o:hover,
 .video-player-handle .handle-btn em {
     background: #03A9F4;
-    background: linear-gradient(90deg, #2196F3, #03A9F4) !important;
+    background: linear-gradient(90deg, #4CAF50, #03A9F4) !important;
 }
 .btn-aux-linear:hover,
 .btn-aux:hover,
