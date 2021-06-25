@@ -502,7 +502,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 	.hidden-text-xs {visibility: hidden !important;}
 			
 	/* all */	
-	body{ font-size: 12px; line-height: 20px;}	
+	body{ font-size: 14px; line-height: 20px;}	
 	
 	/* text */
 	h1{ font-size:24px;}
@@ -526,11 +526,11 @@ textarea.form-control{ height: auto; padding: 10px;}
 	
 	/* panel-head */
 	.myui-panel__head .title,.myui-panel__head .title a{font-size: 18px;}
-	
+
 	/* vod-list */
 	.myui-vodlist__thumb .tag{ padding: 0 5px;}
 	.myui-vodlist__thumb .silde-title{ font-size: 12px;}
-	.myui-vodlist__detail .title,.myui-vodlist__detail .title.active{margin-bottom: 0; font-size: 12px;}	
+	.myui-vodlist__detail .title,.myui-vodlist__detail .title.active{margin-bottom: 0; font-size: 13px;}	
 	
 	/* media-list */
 	.myui-vodlist__media li .detail.active{ padding-left: 0; padding-right: 10px;}
