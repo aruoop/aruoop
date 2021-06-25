@@ -129,7 +129,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 .nav-head > li,.nav-tabs > li{ margin-top: 10px; margin-left: 15px;}
 .nav-head > li > a{ padding-bottom: 8px; font-size: 16px;}
 .nav-tabs > li > a{ padding-bottom: 10px;}
-.nav-tabs > li.active > a{ border-bottom: 2px solid;}
+.nav-tabs > li.active > a{ border-bottom: 4px solid;}
 .nav-tabs > li .dropdown-box{ margin-left: -50px; padding-top: 0;}
 .nav-tabs > li .dropdown-box .item{ width: 100px; text-align: center;}
 .nav-tabs > li .dropdown-box .item li{ padding: 5px;}
@@ -494,13 +494,13 @@ textarea.form-control{ height: auto; padding: 10px;}
 	.myui-modal__dialog{ width: 320px; margin: 50px auto;}
 	
 @media (max-width: 767px){	
-	
 	.visible-xs { display: block !important;}
 	.hidden-xs {display: none!important;}
 	.visible-inline-xs { display: inline-block !important;}
 	.visible-text-xs { visibility: visible !important;}
 	.hidden-text-xs {visibility: hidden !important;}
-			
+	.nav-tabs > li > a{ padding-bottom: 2px;}
+	.nav-tabs > li.active > a{ border-bottom: 4px solid;}		
 	/* all */	
 	body{ font-size: 14px; line-height: 20px;}	
 	
