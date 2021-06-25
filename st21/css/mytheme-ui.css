@@ -494,7 +494,6 @@ textarea.form-control{ height: auto; padding: 10px;}
 	.myui-modal__dialog{ width: 320px; margin: 50px auto;}
 	
 @media (max-width: 767px){	
-	
 	.visible-xs { display: block !important;}
 	.hidden-xs {display: none!important;}
 	.visible-inline-xs { display: inline-block !important;}
