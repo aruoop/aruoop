@@ -664,13 +664,13 @@ var MyTheme = {
 			      return k;
 			 }
 			 
-			//function s2t() {
+			function s2t() {
 			//	document.body.innerHTML = document.body.innerHTML.s2t();
-			//}
+			}
 			
-			//function t2s() {
+			function t2s() {
 			//    document.body.innerHTML = document.body.innerHTML.t2s();
-			//}
+			}
 			
 			var language = MyTheme.Cookie.Get('language')||myui.language;
 			if (language == 1) {
