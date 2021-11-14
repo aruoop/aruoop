@@ -429,7 +429,7 @@ textarea.form-control{ height: auto;}
 	.stui-content__playlist.column6 li,.stui-content__playlist.column8 li,.stui-content__playlist.column10 li,.stui-content__playlist.column12 li{ width: 25%;}				/* page */	.stui-page li{float:left;width:20%;margin:0;padding:0 5px 0 5px}	.stui-page li a,.stui-page__box li .num{display:block;padding:5px 0;text-align:center}	.stui-page li.page-item{ width: auto; margin-bottom: 5px;}	.stui-page li.page-item a{ padding: 5px 15px;}		/* extra */	.stui-extra{right:15px;bottom:15px}	.stui-extra li{padding:8px 0 0}	.stui-extra li a,.stui-extra li span{width:35px;height:35px;line-height:35px;font-size:16px}	.stui-extra li a .icon,.stui-extra li span .icon{font-size:16px}	.stui-extra li a img{margin-top:8px;width:18px;height:18px}
 	/* carousel */	.carousel .list{ margin-right: 10px;}
 	/* flickity */
-	.flickity-prev-next-button{display: none;}	.flickity-prev-next-button.previous{left:5px;border-radius:0 5px 5px 0}	.flickity-prev-next-button.next{right:5px;/*border-radius: 5px; 0 0 5px*/}	.flickity-page-dots{ bottom: 15px;}
+	.flickity-prev-next-button{display: none;}	.flickity-prev-next-button.previous{left:5px;border-radius:0 5px 5px 0}	.flickity-prev-next-button.next{right:5px;border-radius: 5px; 0 0 5px}	.flickity-page-dots{ bottom: 15px;}
 	/* modal */
 	.stui-modal__dialog{ width: 100%; margin: 0; padding: 50px 20px;}
 	.carousel-control{ width: 50px; height: 100%;}
