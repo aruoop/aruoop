@@ -665,11 +665,11 @@ var MyTheme = {
 			 }
 			 
 			function s2t() {
-			//	document.body.innerHTML = document.body.innerHTML.s2t();
+				document.body.innerHTML = document.body.innerHTML.s2t();
 			}
 			
 			function t2s() {
-			//   document.body.innerHTML = document.body.innerHTML.t2s();
+			   document.body.innerHTML = document.body.innerHTML.t2s();
 			}
 			
 			var language = MyTheme.Cookie.Get('language')||myui.language;
