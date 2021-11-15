@@ -4,10 +4,10 @@
  */
 @charset "utf-8";
 /* all */
-body{padding-top:80px}
+body{padding-top:0px}
 
-/* header position:fixed;*/ 
-.stui-header__top{top:0;z-index:999;width:100%;height:60px; background-color: #666; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);}
+/* header */
+.stui-header__top{/*position:fixed;height:60px;*/top:0;z-index:999;width:100%; background-color: #666; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);}
 .top-fixed-down{margin-top:-60px}
 .stui-header__side{float:right}
 
@@ -101,7 +101,7 @@ body{padding-top:80px}
 @media (max-width:1024px){
 	
 	/* all */
-	body{ padding-top:90px}
+	body{ padding-top:0px}
 
     /* header */
     .stui-header__top{ height: 90px;}
