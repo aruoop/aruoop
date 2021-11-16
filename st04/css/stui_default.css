@@ -132,9 +132,9 @@ body{padding-top:0px}
 	
 	/* header */ 
 	.stui-header__logo{margin-left:10px}
-	.stui-header__search{position:absolute;top:0;left:0;right:50px;width:auto}
+	.stui-header__search{position:absolute;top:0;left:0;right:80px;width:auto}
 	.stui-header__menu{padding-left:10px}
-			
+	.stui-header__user > li{ float:left; position: relative; padding: 15px 0 10px; margin-left: 0px}		
 	/* content */
 	.stui-content__thumb .v-thumb{width:115px}
 	.stui-content__thumb .w-thumb{width:160px}
