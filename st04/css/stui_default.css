@@ -61,7 +61,7 @@ body{padding-top:0px}
 .stui-content__detail .score .branch .text{ font-size: 12px;}
 .stui-content__detail .score .star{display: inline-block; position: relative; top: 5px; width: 160px; height: 25px; background: url(../img/star1.png) 0 0 no-repeat;}
 .stui-content__detail .score .star .star-cur{display: inline-block; background: url(../img/star.png) 0 0 no-repeat; height: 25px; position: absolute; top: 0;  z-index: 1;}
-.detail-sketch,.detail-content{ font-size: 14px; line-height: 25px;}
+.detail-sketch,.detail-content{ font-size: 14px; line-height: 25px;word-break: break-all;}
 .detail-content img{ max-width: 100%;}
 
 /* player */
