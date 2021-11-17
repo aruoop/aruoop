@@ -44,7 +44,7 @@
 
 /* tag */
 .stui-tag_list{position:relative;padding:10px 0 0;}
-.stui-tag_list li{float:left;margin-left:10px;margin-bottom:10px}
+.stui-tag_list li{float:left;margin-right:10px;}
 .stui-tag_list li span{display:inline-block;padding:3px 0 3px}
 .stui-tag_list li a{display:inline-block;padding: 0px 0px;border-radius:2px;}
 .stui-tag_list.letter-list li{ margin: 0;}
