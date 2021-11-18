@@ -54,12 +54,12 @@ a:focus,a:hover,a:active{ text-decoration:none;}
 .text-overflow{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 
 /* img */
-img{border: 0; vertical-align:middle}
+img{border: 0; width:100%; vertical-align:middle}
 .img-circle{ border-radius: 50%;}
 .img-rounded{ /*border-radius: 5px;*/}
 .img-thumbnail{ padding: 5px; /*border-radius: 5px;*/}
 .img-responsive{ max-width: 100%;}
-.center.img{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
+.f_center img{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 
 /* form */
 input,textarea{outline: medium none; outline: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
