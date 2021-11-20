@@ -106,7 +106,7 @@ body{padding-top:0px}
     /* header */
     .stui-header__top{ height: 90px;}
 	.top-fixed-down{margin-top:-50px}
-	.stui-header__side{float:none;position:absolute;top:0;left:100px;right:0;width:auto}
+	.stui-header__side{float:none;position:absolute;top:0;left:105px;right:0;width:auto}
 	.stui-header__logo,.stui-header__menu{float:none}
 	.stui-header__logo{margin:10px 0 10px}
 	.stui-header__logo .logo{width:127px;height:30px;}
