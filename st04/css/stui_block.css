@@ -54,7 +54,7 @@ a:focus,a:hover,a:active{ text-decoration:none;}
 .text-overflow{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 
 /* img */
-img{border: 0; width:100%; vertical-align:middle}
+
 .img-circle{ border-radius: 50%;}
 .img-rounded{ /*border-radius: 5px;*/}
 .img-thumbnail{ padding: 5px; /*border-radius: 5px;*/}
@@ -410,7 +410,8 @@ textarea.form-control{ height: auto;}
 	/* text */
 	h1{ font-size:20px; line-height: 24px;}
 	h2{ font-size:18px; line-height: 22px;}
-	h3{ font-size:16px; line-height: 20px;}	h4{ font-size:14px; line-height: 18px;}	h5{ font-size:12px; line-height: 16px;}	h6{ font-size:10px; line-height: 14px;}		/* btn */	.btn{padding: 3px 6px;}	.btn-min{ padding: 3px 8px;}	.btn-lg{ padding: 12px 24px;}		/*nav*/	.nav{ height: 20px;}	.nav-head > li{ margin-top: 2px; margin-right: 20px;}	.nav-head > li > a{ padding-bottom: 10px; font-size: 14px;}	.nav-tabs > li{ margin-left: 10px;}	.nav-tabs > li > a{padding: 6px 0 6px;}	.nav-page > li > a{ padding: 0 3px; height: 20px; line-height: 18px;}
+	h3{ font-size:16px; line-height: 20px;}	h4{ font-size:14px; line-height: 18px;}	h5{ font-size:12px; line-height: 16px;}	h6{ font-size:10px; line-height: 14px;}	img{border: 0; width:100%; vertical-align:middle}
+		/* btn */	.btn{padding: 3px 6px;}	.btn-min{ padding: 3px 8px;}	.btn-lg{ padding: 12px 24px;}		/*nav*/	.nav{ height: 20px;}	.nav-head > li{ margin-top: 2px; margin-right: 20px;}	.nav-head > li > a{ padding-bottom: 10px; font-size: 14px;}	.nav-tabs > li{ margin-left: 10px;}	.nav-tabs > li > a{padding: 6px 0 6px;}	.nav-page > li > a{ padding: 0 3px; height: 20px; line-height: 18px;}
 	/* pic-text */	.pic-text-silde{ font-size: 12px;}
 	/* line */
 	.top-line:before,.top-line-dot:before{-webkit-transform-origin: 0 0;transform-origin: 0 0;-webkit-transform: scaleY(0.5);transform: scaleY(0.5);}
