@@ -6,7 +6,7 @@
  */
 
 /* all */
-body{ padding-top: 80px;}
+body{/*  padding-top: 80px;*/}
 body.active{ padding-top: 60px;}
 .myui-container-bg{ margin-bottom: 20px; padding: 20px 0; background-color: #333232;}
 
