@@ -18,7 +18,7 @@ var qrcode1 = "1";
 var qrcode2 = "1";
 //内容页二维码，1自动生成（当前页面二维码），填写路径将加载指定图片（建议尺寸160*160px）例：/statics/img/wxcode.png
 
-var copyshort = "1"
+var copyshort = "0"
 //是否开启自动生成短链接，0关闭1开启（开启后点击分享按钮将会复制短链否则复制默认链接）
 
 var baidushare = "https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/dog20/api/js/share.js";
