@@ -7,20 +7,20 @@
 body{ padding-top: 80px}
 
 /* header */
-.dog-header__top{position:fixed;top:0;z-index: 999;width:100%;height: 60px;background-color: #03021b;border-top: 5px solid #0b84ec;}
+.dog-header__top{position:fixed;top:0;z-index: 999;width:100%;height: 60px;background-color: #03021b;border-top: 5px solid #26A69A;}
 .top-fixed-down{margin-top:-60px}
 .dog-header__side{float:right}
 
 /* header-logo */
 .dog-header__logo,.dog-header__menu{float:left}
 .dog-header__logo{margin-top: 0}
-.dog-header__logo .logo{ display:block; width:150px; height:50px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
+.dog-header__logo .logo{ display:block; width:150px; height:50px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/dog20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
 
 /* header-menu */
 .dog-header__menu{position:relative;margin-left:10px}
 .dog-header__menu li{float:left;}
 .dog-header__menu li a{ display:inline-block; height: 55px; line-height: 50px; font-size:15px; padding: 0 20px; color: #fff;}
-.dog-header__menu li.active a{background-color: #0b84ec;color: #fff;}
+.dog-header__menu li.active a{background-color: #26A69A;color: #fff;}
 
 /* header-seacrh */
 .dog-header__search{float:left;position:relative;margin-top:12px;width:200px}
@@ -93,14 +93,14 @@ body{ padding-top: 80px}
 	.dog-header__side{float:none;position:absolute;top:0;left:150px;right:0;width:auto}
 	.dog-header__logo,.dog-header__menu{float:none}
 	.dog-header__logo{margin:10px 0 10px}
-	.dog-header__logo .logo{width:127px;height:40px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
+	.dog-header__logo .logo{width:127px;height:40px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/dog20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
 	.dog-header__search{float:right;margin-top:10px}
 	.dog-header__top{ padding: 0 10px; height: 100px;}
 	.dog-header__menu{margin:0;padding:0;}
 	.dog-header__menu:before{content:" ";position:absolute;left:0;top:0;right:0;width:100%;height:1px;-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-transform:scaleY(.5);transform:scaleY(.5); border-top: 1px solid #155FAA}
 	.dog-header__menu li{ margin-top:0;margin-right:20px}
 	.dog-header__menu li a{ padding: 0; font-size:14px; height: 40px; line-height: 40px; white-space:nowrap; color: #fff;}
-	.dog-header__menu li.active a{ position:relative; background: none; color: #ff9900;}
+	.dog-header__menu li.active a{ position:relative; background: none; color: #26A69A;}
 	.dog-header__user > li{ padding: 15px 0 10px; margin-right: 10px;}
 	.dog-header__user > li .dropdown{ right: 0;}
 	.dog-header__user > li .dropdown:before{ right: 8px;}
