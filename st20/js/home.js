@@ -297,8 +297,8 @@ var MAC={
                                 }
                             }
                             else{
-                                alert($r.msg);
-                            }                           
+                                $that.attr('title', $r.msg);
+                            }
                         }
                     });
                 }
@@ -525,7 +525,6 @@ var MAC={
                         url: maccms.path + '/index.php/user/login',
                         data: $('.mac_login_form').serialize(),
                         success:function($r){
-                        	alert($r.msg)
                             if($r.code == 1){
                                 location.reload();
                             }
@@ -556,7 +555,7 @@ var MAC={
             if($that.attr("data-id")){
                 if (confirm('您确认购买此条数据播放权限吗？')) {
                     $.ajax({
-                        url: maccms.path + '/index.php/user/ajax_buy_popedom.html?id=' + $that.attr("data-id") + '&mid=' + $that.attr("data-mid") + '&sid=' + $that.attr("data-sid") + '&nid=' + $that.attr("data-nid") + '&type=' + $that.attr("data-type"),
+                        url: maccms.path + '/index.php/user/ajax_buy_popedom.html?id=' + $that.attr("data-id") + '&sid=' + $that.attr("data-sid") + '&nid=' + $that.attr("data-nid") + '&type=' + $that.attr("data-type"),
                         cache: false,
                         dataType: 'json',
                         success: function ($r) {
@@ -610,10 +609,17 @@ var MAC={
         location.href= maccms.path + '/index.php/ajax/desktop?name='+encodeURI(s)+'&url=' + encodeURI(location.href);
     },
     'Timming':function(){
-
+        if($('.mac_timming').length==0){
+            return;
+        }
+        var infile = $('.mac_timming').attr("data-file");
+        if(infile==undefined || infile == ''){
+            infile = 'api.php';
+        }
+        var t=(new Image());t.src=maccms.path + '/'+infile+'/timming/index?t='+Math.random();
     },
     'Error':function(tab,id,name){
-
+    
     },
     'AddEm':function(obj,i){
         var oldtext = $(obj).val();
