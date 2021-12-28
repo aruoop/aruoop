@@ -14,7 +14,7 @@ body{ padding-top: 80px}
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
 .stui-header__logo{margin-top: 0}
-.stui-header__logo .logo{ display:block; width:150px; height:50px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/images/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
+.stui-header__logo .logo{ display:block; width:150px; height:50px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
 
 /* header-menu */
 .stui-header__menu{position:relative;margin-left:10px}
@@ -93,7 +93,7 @@ body{ padding-top: 80px}
 	.stui-header__side{float:none;position:absolute;top:0;left:150px;right:0;width:auto}
 	.stui-header__logo,.stui-header__menu{float:none}
 	.stui-header__logo{margin:10px 0 10px}
-	.stui-header__logo .logo{width:127px;height:40px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/images/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
+	.stui-header__logo .logo{width:127px;height:40px; background:url(https://cdn.jsdelivr.net/gh/aruoop/aruoop@master/st20/img/logo.png) no-repeat; background-position:50% 50%; background-size:cover}
 	.stui-header__search{float:right;margin-top:10px}
 	.stui-header__top{ padding: 0 10px; height: 100px;}
 	.stui-header__menu{margin:0;padding:0;}

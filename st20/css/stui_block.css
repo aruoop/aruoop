@@ -144,7 +144,7 @@ textarea.form-control{ height: auto;}
 
 /* pannel-head */
 .stui-pannel__head{ position: relative; height: 30px;}
-.stui-pannel__head.active{height: 40px;}
+.stui-pannel__head.active{height: 30px;}
 .stui-pannel__head .title{float: left; margin:0; padding-right: 10px; line-height: 24px;}
 .stui-pannel__head .title img{ display: inline-block; width: 24px; height: 24px; margin-right: 10px; vertical-align: -5px;}
 .stui-pannel__head .more{ line-height: 30px;}
