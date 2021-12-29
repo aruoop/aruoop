@@ -25,7 +25,7 @@ a:hover{ color: #26A69A;}
 .btn-default:hover{ background-color: #f0eeee;}
 .btn-primary{ background-color: #26A69A; border: 1px solid #26A69A; color: #FFFFFF;}
 .btn-primary .icon{ color: #FFFFFF;}
-.btn-primary:hover{ background-color: #FF6600; border: 1px solid #FF6600; color: #FFFFFF;}
+.btn-primary:hover{ background-color: #80CBC4; border: 1px solid #80CBC4; color: #FFFFFF;}
 .btn-primary:hover .icon{ color: #FFFFFF;}
 
 /* dropdown */
