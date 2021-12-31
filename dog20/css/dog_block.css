@@ -428,7 +428,7 @@ textarea.form-control{ height: auto;}
 	.nav{ height: 20px;}
 	.nav-head > li{ margin-top: 2px; margin-right: 20px;}
 	.nav-head > li > a{ padding-bottom: 10px; font-size: 14px;}
-	.nav-tabs > li{ margin-left: 20px;}
+	/*.nav-tabs > li{ margin-left: 20px;}*/
 	.nav-tabs > li > a{padding: 6px 0 6px;}
 	.nav-page > li > a{ padding: 0 3px; height: 20px; line-height: 18px;}
 	
