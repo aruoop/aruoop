@@ -54,7 +54,6 @@ a:focus,a:hover,a:active{ text-decoration:none;}
 .text-overflow{ width:100%; overflow:hidden; text-overflow:ellipsis; -o-text-overflow:ellipsis; white-space:nowrap;}
 
 /* img */
-
 .img-circle{ border-radius: 50%;}
 .img-rounded{ /*border-radius: 5px;*/}
 .img-thumbnail{ padding: 5px; /*border-radius: 5px;*/}
