@@ -290,7 +290,7 @@ var dog = {
 if(window.console&&window.console.log){  
 	console.log('pkcom.cc');  
 	console.log('aruoop@gmail.com');  
-	console.log("什么都没有","color:red");  
+	console.log("什么都没有");  
 }
 
 $(document).ready(function() {	
